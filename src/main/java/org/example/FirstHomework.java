@@ -6,7 +6,7 @@ public class FirstHomework {
     }
 
     public double squareCircle(int r) {
-        return r * r * 3.14;
+        return r * r * Math.PI;
     }
 
     public double squareTriangle(int a, int b, int c) {
